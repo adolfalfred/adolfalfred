@@ -17,8 +17,9 @@ I'm currently persuing computer science diploma studies at the University of Dar
 
 ### 🔭 I'm currently working on 3 projects
 1. PCC
-2. Loyaltyhood
-3. AutosparesLINK
+- (Prime Climate Care) is a website that provides education to the society about weather. It also shows organisational information to the public, eg. events, announcements and tasks.
+3. Loyaltyhood
+4. AutosparesLINK
 
 ### 🌱 THE FOLLOWING ARE THE LANGUAGES I HAVE TESTED AND STILL LEARNING
 **PROGRAMMING**
@@ -31,6 +32,6 @@ I'm currently persuing computer science diploma studies at the University of Dar
 - HTML5
 - CSS3
 - SASS(SCSS)
-- Jvascript
+- Javascript
 - sql
 - PHP
