@@ -35,4 +35,5 @@ PCC is a website that provides education to the society about weather. It also s
 - sql
 - PHP
 
-## ⚡ I have worked with MsNet company three months as a LAN installation engineer
+**⚡ I have worked with MsNet company on 2021 for three months as a LAN installation engineer**
+**⚡ Currently I'm a class representative (CR) of 72 students at the University of Dar es Salaam expected to graduate on July 2022**
