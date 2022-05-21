@@ -21,7 +21,7 @@ I'm currently persuing computer science diploma studies at the University of Dar
 3. AutosparesLINK
 
 ###🌱 THE FOLLOWING ARE THE LANGUAGES I HAVE TESTED AND STILL LEARNING
-**PROGRAMMING**   
+**PROGRAMMING**
 - Java
 - Python
 - Kotlin
