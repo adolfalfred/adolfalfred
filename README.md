@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 -->
 I'm currently persuing computer science diploma studies at the University of Dar es Salaam expecting to accomplish the studies on july 2022
 
-### 🔭 I'm currently working on 3 projects
-1. PCC
-- (Prime Climate Care) is a website that provides education to the society about weather. It also shows organisational information to the public, eg. events, announcements and tasks.
-3. Loyaltyhood
-4. AutosparesLINK
+## 🔭 I'm currently working on 3 projects
+### PCC (Prime Climate Care)
+PCC is a website that provides education to the society about weather. It also shows organisational information to the public, eg. events, announcements and tasks.
+### LoyaltyHood
+An ecommerce website for LoyaltyHood company dealing with fashion products, like clothes branded by the company.
+### AutosparesLINK
+My final year project. The website that links between automobile spareparts sellers and customers.
 
-### 🌱 THE FOLLOWING ARE THE LANGUAGES I HAVE TESTED AND STILL LEARNING
+## 🌱 THE FOLLOWING ARE THE LANGUAGES I HAVE TESTED AND STILL LEARNING
 **PROGRAMMING**
 - Java
 - Python
