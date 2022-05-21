@@ -26,6 +26,7 @@ I'm currently persuing computer science diploma studies at the University of Dar
 - Python
 - Kotlin
 - C
+
 **WEB TECHNOLOGIES**
 - HTML5
 - CSS3
