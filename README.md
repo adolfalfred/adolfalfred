@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 -->
 I'm currently persuing computer science diploma studies at the University of Dar es Salaam expecting to accomplish the studies on july 2022
 
-###🔭 I'm currently working on 3 projects
+### 🔭 I'm currently working on 3 projects
 1. PCC
 2. Loyaltyhood
 3. AutosparesLINK
 
-###🌱 THE FOLLOWING ARE THE LANGUAGES I HAVE TESTED AND STILL LEARNING
+### 🌱 THE FOLLOWING ARE THE LANGUAGES I HAVE TESTED AND STILL LEARNING
 **PROGRAMMING**
 - Java
 - Python
