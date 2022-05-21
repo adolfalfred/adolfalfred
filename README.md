@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently persuing computer science diploma studies at the University of Dar es Salaam expecting to accomplish the studies on july 2022
+I'm persuing diploma in Computer Science studies at the University of Dar es Salaam at Colege of Information and Communication Technology (CoICT) expecting to accomplish my studies on july 2022
 
-## 🔭 I'm currently working on 3 projects
+## 🔭 Currently, I'm working on 3 projects
 ### LoyaltyHood
 An ecommerce website for LoyaltyHood company dealing with fashion products, like clothes branded by the company.
 ### AutosparesLINK
@@ -36,4 +36,5 @@ PCC is a website that provides education to the society about weather. It also s
 - PHP
 
 **⚡ I have worked with MsNet company on 2021 for three months as a LAN installation engineer**
+
 **⚡ Currently I'm a class representative (CR) of 72 students at the University of Dar es Salaam expected to graduate on July 2022**
